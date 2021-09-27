@@ -14,9 +14,9 @@ const Navi =  (props) => {
                 </div>   
 
                 <ul className="navigation">
-                <li><NavLink to="/">About</NavLink></li>
-                <li><NavLink to="/Skills">Skills </NavLink></li>
-                <li><NavLink to="/Education">Education</NavLink></li>
+                <li><NavLink to="/">Обо мне</NavLink></li>
+                <li><NavLink to="/Skills">Технологии</NavLink></li>
+                <li><NavLink to="/Education">Образование</NavLink></li>
                 </ul>
       
                 </div>
