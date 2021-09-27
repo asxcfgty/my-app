@@ -1,10 +1,16 @@
-import logo from './logo.svg';
+
 import './App.css';
+
+import Navi from './components/Navi'
+
 
 function App() {
   return (
-    <h1>hello</h1>
+    <div>
+      <Navi />
+    </div>
   );
 }
+
 
 export default App;
